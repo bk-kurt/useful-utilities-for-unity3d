@@ -1,7 +1,7 @@
 # useful-utilities-for-unity3d
 
 ------
-## Canvas pixel color picker
+## 1 - Canvas pixel color picker
 Designed specifically for Unity applications requiring in-UI color selection.
 
 * Real-Time Color Picking:\
