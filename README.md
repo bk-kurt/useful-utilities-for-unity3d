@@ -1,7 +1,8 @@
 # useful-utilities-for-unity3d
 
 ------
-## 1 - Canvas pixel color picker
+## 1 - TextureUtilities / Pixel Color Picker
+
 Designed specifically for Unity applications requiring in-UI color selection.
 
 * Real-Time Color Picking:\
@@ -13,6 +14,15 @@ Utilizes the IColorPicker interface, allowing for flexible color-picking strateg
 * Accurate Color Selection: \
 Comes with a default TextureColorPicker implementation that fetches colors directly from Texture2D for precise color selection.
 
-## Setup and samples 
+### Setup and samples 
 Will be added...
+
+
+## 2 - AnimationUtilties / ...
+-AnimationClipUtility \
+-DotweenAnimatorHelper
+
+## 3 - PathUtilities / ...
+-PathUtility
+
 
